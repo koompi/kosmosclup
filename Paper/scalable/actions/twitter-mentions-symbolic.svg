@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg id="svg7384" width="16" height="16" style="enable-background:new" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <metadata id="metadata90">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title>Paper Symbolic Icon Theme</dc:title>
+    <cc:license rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+   </cc:Work>
+   <cc:License rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+    <cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction"/>
+    <cc:permits rdf:resource="http://creativecommons.org/ns#Distribution"/>
+    <cc:requires rdf:resource="http://creativecommons.org/ns#Notice"/>
+    <cc:requires rdf:resource="http://creativecommons.org/ns#Attribution"/>
+    <cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks"/>
+    <cc:requires rdf:resource="http://creativecommons.org/ns#ShareAlike"/>
+   </cc:License>
+  </rdf:RDF>
+ </metadata>
+ <title id="title8473">Paper Symbolic Icon Theme</title>
+ <defs id="defs7386">
+  <filter id="filter7554" style="color-interpolation-filters:sRGB">
+   <feBlend id="feBlend7556" in2="BackgroundImage" mode="darken"/>
+  </filter>
+ </defs>
+ <g id="layer12" transform="translate(-685 -161)">
+  <path id="path3059" d="m696.1 162.07c-0.61794-0.22132-1.283 0.0693-1.5639 0.64635-1.9291-0.11657-3.7778 1.0402-4.4619 2.9526-0.60902 1.7322-1.8404 3.9709-2.4773 4.0867-0.12871 0.0726-0.23702 0.18952-0.29095 0.34028-0.11898 0.33261 0.0528 0.69623 0.38526 0.81529l9.3004 3.331c0.33242 0.11906 0.69582-0.0529 0.81481-0.38548 0.0539-0.15076 0.0444-0.30989-9e-3 -0.44773-0.4187-0.49391 0.0493-3.006 0.67719-4.7314 0.68416-1.9124-0.011-3.9803-1.5758-5.1151 0.14887-0.62435-0.1808-1.2712-0.79874-1.4925zm-4.3568 11.647c-0.29654 0.82896 0.26899 1.7896 1.2632 2.1457s2.0405-0.0273 2.337-0.85626z" style="color:#000000;enable-background:accumulate;fill:#555"/>
+ </g>
+</svg>
