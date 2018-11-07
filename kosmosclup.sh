@@ -13,9 +13,6 @@ cat << EOF
                                                                                                                                                           
 EOF
                                                                     
-
-#Add git to system
-sudo apt-get install git -y
 #Remove wps-office from system
 sudo apt remove wps-office -y
 sudo apt autoremove -y
