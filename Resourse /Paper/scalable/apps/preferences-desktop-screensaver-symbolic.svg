@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg id="svg7384" width="16" height="16" style="enable-background:new" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <metadata id="metadata90">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title>Paper Symbolic Icon Theme</dc:title>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <title id="title8473">Paper Symbolic Icon Theme</title>
+ <defs id="defs7386">
+  <filter id="filter7554" style="color-interpolation-filters:sRGB">
+   <feBlend id="feBlend7556" in2="BackgroundImage" mode="darken"/>
+  </filter>
+ </defs>
+ <g id="g6058" transform="translate(-524 -528)">
+  <path id="path5549" d="m534.48 532.69c0.32144 0.38949 0.51637 0.8873 0.51637 1.4317 0 1.2444-1.0088 2.2532-2.2532 2.2532-0.54442 0-1.0422-0.19492-1.4317-0.51635 0.27245 1.1613 1.3139 2.0185 2.5583 2.0185 1.4518 0 2.6287-1.1769 2.6287-2.6287 0-1.2444-0.85718-2.2859-2.0185-2.5583z" style="color:#bebebe;enable-background:accumulate;fill:#555"/>
+  <rect id="rect5595" x="531" y="531" width="1" height="1" rx=".5" ry=".5" style="color:#bebebe;enable-background:accumulate;fill:#555"/>
+  <path id="path11638" d="m529.5 535.5-0.49672-1.5033-1.5033-0.49672 1.5033-0.49672 0.49672-1.5033 0.49672 1.5033 1.5033 0.49672-1.5033 0.49672z" style="color:#000000;enable-background:accumulate;fill:#555"/>
+  <rect id="rect8197" x="532" y="533" width="1" height="1" rx=".5" ry=".5" style="color:#bebebe;enable-background:accumulate;fill:#555"/>
+  <rect id="rect8199" x="536" y="531" width="1" height="1" rx=".5" ry=".5" style="color:#bebebe;enable-background:accumulate;fill:#555"/>
+  <rect id="rect8201" x="528" y="536" width="1" height="1" rx=".5" ry=".5" style="color:#bebebe;enable-background:accumulate;fill:#555"/>
+  <path id="path7173-9" d="m526 528c-1.9996 0-2 2-2 2v9s0 2 2 2h12s1.9995 0 2-2v-9s4.1e-4 -2-2-2zm0 2h12v9l-12-0.024zm1 13 2e-4 0.99664h10l-2e-4 -0.99664c0-1-1-1-1-1h-8.0218s-0.97823 0-0.97823 1z" style="fill:#555"/>
+ </g>
+</svg>
