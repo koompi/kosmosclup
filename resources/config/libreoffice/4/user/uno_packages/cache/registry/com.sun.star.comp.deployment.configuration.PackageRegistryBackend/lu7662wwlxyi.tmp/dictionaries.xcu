@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<oor:component-data xmlns:oor="http://openoffice.org/2001/registry" xmlns:xs="http://www.w3.org/2001/XMLSchema" oor:name="Linguistic" oor:package="org.openoffice.Office">
+ <node oor:name="ServiceManager">
+    <node oor:name="Dictionaries">
+        <node oor:name="HunSpellDic_km_KH" oor:op="fuse">
+            <prop oor:name="Locations" oor:type="oor:string-list">
+                <value>vnd.sun.star.expand:$UNO_USER_PACKAGES_CACHE/uno_packages/lu7662wwlxyh.tmp_/sbbic-khmer-spelling-checker-libreoffice-1-82-2.oxt/km_KH.aff vnd.sun.star.expand:$UNO_USER_PACKAGES_CACHE/uno_packages/lu7662wwlxyh.tmp_/sbbic-khmer-spelling-checker-libreoffice-1-82-2.oxt/dictionaries/km_KH.dic</value>
+            </prop>
+            <prop oor:name="Format" oor:type="xs:string">
+                <value>DICT_SPELL</value>
+            </prop>
+            <prop oor:name="Locales" oor:type="oor:string-list">
+                <value>km-KH</value>
+            </prop>
+        </node>
+        <node oor:name="HyphDic_km-KH" oor:op="fuse">
+            <prop oor:name="Locations" oor:type="oor:string-list">
+                <value>vnd.sun.star.expand:$UNO_USER_PACKAGES_CACHE/uno_packages/lu7662wwlxyh.tmp_/sbbic-khmer-spelling-checker-libreoffice-1-82-2.oxt/hyph_km_KH.dic</value>
+            </prop>
+            <prop oor:name="Format" oor:type="xs:string">
+                <value>DICT_HYPH</value>
+            </prop>
+            <prop oor:name="Locales" oor:type="oor:string-list">
+                <value>km-KH</value>
+            </prop>
+        </node>
+    </node>
+ </node>  
+</oor:component-data>
+<oor:items xmlns:oor="http://openoffice.org/2001/registry" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<item oor:path="/org.openoffice.Office.Common/Accessibility">
+<prop oor:name="IsSystemFont" oor:op="fuse"><value>false</value></prop></item>
+
+<item oor:path="/org.openoffice.Office.Common/Font/Substitution/FontPairs">
+<node oor:name="_0" oor:op="replace"><prop oor:name="Always" oor:op="fuse"><value>true</value></prop>
+<prop oor:name="OnScreenOnly" oor:op="fuse"><value>false</value></prop>
+<prop oor:name="ReplaceFont" oor:op="fuse"><value>Andale Sans UI</value></prop>
+<prop oor:name="SubstituteFont" oor:op="fuse"><value>Khmer SBBIC System</value></prop>
+</node>
+</item>
+
+<item oor:path="/org.openoffice.Office.Common/Font/Substitution">
+<prop oor:name="Replacement" oor:op="fuse"><value>true</value></prop>
+</item>
+
+<item oor:path="/org.openoffice.Office.Common/I18N/CJK">
+<prop oor:name="AsianTypography" oor:op="fuse"><value>true</value></prop>
+</item>
+
+<item oor:path="/org.openoffice.Office.Common/I18N/CTL">
+<prop oor:name="CTLCursorMovement" oor:op="fuse"><value>0</value></prop>
+</item>
+<item oor:path="/org.openoffice.Office.Common/I18N/CTL">
+<prop oor:name="CTLFont" oor:op="fuse"><value>true</value></prop>
+</item>
+<item oor:path="/org.openoffice.Office.Common/I18N/CTL">
+<prop oor:name="CTLSequenceChecking" oor:op="fuse"><value>true</value></prop>
+</item>
+<item oor:path="/org.openoffice.Office.Common/I18N/CTL">
+<prop oor:name="CTLSequenceCheckingRestricted" oor:op="fuse"><value>true</value></prop>
+</item>
+<item oor:path="/org.openoffice.Office.Common/I18N/CTL">
+<prop oor:name="CTLSequenceCheckingTypeAndReplace" oor:op="fuse"><value>true</value></prop>
+</item>
+<item oor:path="/org.openoffice.Office.Common/I18N/CTL">
+<prop oor:name="CTLTextNumerals" oor:op="fuse"><value>0</value></prop>
+</item>
+<item oor:path="/org.openoffice.Office.Linguistic/General">
+<prop oor:name="DefaultLocale_CTL" oor:op="fuse"><value>km-KH</value></prop>
+</item>
+
+<item oor:path="/org.openoffice.Office.Writer/AutoFunction/Completion">
+<prop oor:name="Enable" oor:op="fuse"><value>false</value></prop>
+</item>
+<item oor:path="/org.openoffice.Office.UI/ColorScheme/ColorSchemes/org.openoffice.Office.UI:ColorScheme['OpenOffice.org']/WriterFieldShadings">
+<prop oor:name="IsVisible" oor:op="fuse"><value>false</value></prop>
+</item>

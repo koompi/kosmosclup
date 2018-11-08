@@ -1,0 +1,68 @@
+###### Progress log entry 2018-10-31 09:47:55 ######
+Reinstalling all deployed packages...
+###### Progress log entry 2018-10-31 09:47:56 ######
+ERROR: (com.sun.star.lang.IllegalArgumentException) { { { Message = "There is no such extension deployed: org.iconset.office2013", Context = (com.sun.star.uno.XInterface) @5558c22c3030 } }, ArgumentPosition = (short) -1 }
+ERROR: (com.sun.star.lang.IllegalArgumentException) { { { Message = "There is no such extension deployed: org.iconset.office2013", Context = (com.sun.star.uno.XInterface) @5558c22c3030 } }, ArgumentPosition = (short) -1 }
+Copying: Office2013-theme-1.1.oxt
+###### Progress log entry 2018-10-31 09:48:15 ######
+Copying: Office2013-theme-1.1.oxt
+###### Progress log entry 2018-10-31 09:48:23 ######
+Copying: Office2013-theme-1.1.oxt
+###### Progress log entry 2018-10-31 09:48:56 ######
+###### Progress log entry 2018-10-31 09:53:47 ######
+###### Progress log entry 2018-10-31 09:57:09 ######
+###### Progress log entry 2018-10-31 09:58:36 ######
+###### Progress log entry 2018-10-31 10:02:14 ######
+###### Progress log entry 2018-10-31 10:03:14 ######
+###### Progress log entry 2018-10-31 10:18:00 ######
+###### Progress log entry 2018-10-31 10:18:17 ######
+Copying: Office2013-theme-1.1.oxt
+Copying: Office2013-theme-1.1.oxt
+###### Progress log entry 2018-10-31 10:18:27 ######
+Copying: Office2013-theme-1.1.oxt
+###### Progress log entry 2018-10-31 10:18:49 ######
+###### Progress log entry 2018-10-31 10:20:26 ######
+###### Progress log entry 2018-10-31 10:21:29 ######
+###### Progress log entry 2018-10-31 10:22:26 ######
+###### Progress log entry 2018-10-31 10:23:24 ######
+###### Progress log entry 2018-10-31 10:24:27 ######
+###### Progress log entry 2018-10-31 10:34:53 ######
+###### Progress log entry 2018-10-31 11:02:35 ######
+###### Progress log entry 2018-10-31 11:16:45 ######
+###### Progress log entry 2018-10-31 11:22:46 ######
+###### Progress log entry 2018-10-31 11:23:17 ######
+###### Progress log entry 2018-10-31 11:36:06 ######
+###### Progress log entry 2018-10-31 11:37:39 ######
+###### Progress log entry 2018-10-31 11:41:15 ######
+###### Progress log entry 2018-10-31 13:22:41 ######
+###### Progress log entry 2018-10-31 13:30:50 ######
+###### Progress log entry 2018-10-31 13:35:06 ######
+###### Progress log entry 2018-10-31 14:25:09 ######
+###### Progress log entry 2018-10-31 14:26:49 ######
+###### Progress log entry 2018-10-31 14:28:02 ######
+###### Progress log entry 2018-10-31 14:56:33 ######
+###### Progress log entry 2018-10-31 15:01:32 ######
+###### Progress log entry 2018-10-31 15:04:47 ######
+###### Progress log entry 2018-10-31 15:08:19 ######
+ERROR: (com.sun.star.lang.IllegalArgumentException) { { { Message = "There is no such extension deployed: SBBIC.spelling.dictionary.km.KH", Context = (com.sun.star.uno.XInterface) @5584f2f3dda0 } }, ArgumentPosition = (short) -1 }
+ERROR: (com.sun.star.lang.IllegalArgumentException) { { { Message = "There is no such extension deployed: SBBIC.spelling.dictionary.km.KH", Context = (com.sun.star.uno.XInterface) @5584f2f3dda0 } }, ArgumentPosition = (short) -1 }
+Copying: sbbic-khmer-spelling-checker-libreoffice-1-82.oxt
+###### Progress log entry 2018-10-31 15:27:23 ######
+Copying: sbbic-khmer-spelling-checker-libreoffice-1-82-1.oxt
+ERROR: (com.sun.star.lang.IllegalArgumentException) { { { Message = "There is no such extension deployed: com.sun.star.comp.Calc.NLPSolver", Context = (com.sun.star.uno.XInterface) @55bd1ef7f190 } }, ArgumentPosition = (short) -1 }
+ERROR: (com.sun.star.lang.IllegalArgumentException) { { { Message = "There is no such extension deployed: com.sun.wiki-publisher", Context = (com.sun.star.uno.XInterface) @55bd1ef7f190 } }, ArgumentPosition = (short) -1 }
+###### Progress log entry 2018-10-31 15:30:41 ######
+###### Progress log entry 2018-10-31 15:31:47 ######
+###### Progress log entry 2018-10-31 15:32:51 ######
+###### Progress log entry 2018-10-31 15:34:02 ######
+###### Progress log entry 2018-10-31 15:47:04 ######
+###### Progress log entry 2018-10-31 15:52:47 ######
+###### Progress log entry 2018-10-31 16:00:48 ######
+###### Progress log entry 2018-10-31 16:02:30 ######
+###### Progress log entry 2018-10-31 16:05:23 ######
+###### Progress log entry 2018-11-04 16:03:40 ######
+###### Progress log entry 2018-11-05 10:53:46 ######
+###### Progress log entry 2018-11-05 11:45:13 ######
+###### Progress log entry 2018-11-06 13:55:22 ######
+###### Progress log entry 2018-11-06 15:23:16 ######
+###### Progress log entry 2018-11-06 16:23:58 ######
