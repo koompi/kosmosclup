@@ -20,7 +20,7 @@ sudo apt autoremove -y
 sudo add-apt-repository ppa:libreoffice/ppa -y
 sudo apt update -y
 sudo apt install libreoffice -y
-
+sudo apt-get upgrade -y 
 #move libraaccount-glib
 sudo rsync -avz ./resources/libaccounts-glib/* /home/koompi/.config/libaccounts-glib/
 #move paper
