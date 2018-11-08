@@ -12,7 +12,9 @@ cat << EOF
                                                     CLEAN UP  v0.01                            
                                                                                                                                                           
 EOF
-                                                                    
+#Call for Variable
+User=whoami
+
 #Remove wps-office from system
 sudo apt remove wps-office -y
 sudo apt autoremove -y
@@ -22,7 +24,7 @@ sudo apt update -y
 sudo apt install libreoffice -y
 sudo apt-get upgrade -y 
 #move libraaccount-glib
-sudo rsync -avz ./resources/libaccounts-glib/* /home/koompi/.config/libaccounts-glib/
+sudo rsync -avz ./resources/libaccounts-glib/* /home/$User/.config/libaccounts-glib/
 #move paper
 sudo rsync -avz ./resources/Paper/* /usr/share/icons/Paper/
 #move ttf-khmeros
