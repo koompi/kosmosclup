@@ -24,11 +24,11 @@ sudo apt update -y
 sudo apt install libreoffice -y
 sudo apt-get upgrade -y 
 #move libraaccount-glib
-sudo rsync -avz ./resources/libaccounts-glib/* /home/$User/.config/libaccounts-glib/
+sudo rsync -avz /resources/libaccounts-glib/* /home/$User/.config/libaccounts-glib/
 #move paper
-sudo rsync -avz ./resources/Paper/* /usr/share/icons/Paper/
+sudo rsync -avz /resources/Paper/* /usr/share/icons/Paper/
 #move ttf-khmeros
-sudo rsync -avz ./resourses/ttf-khmeros/* /usr/share/fonts/truetype/ttf-khmeros/
+sudo rsync -avz /resourses/ttf-khmeros/* /usr/share/fonts/truetype/ttf-khmeros/
 cd ..
 echo "Deleting file...."
 rm -rf kosmosclup
