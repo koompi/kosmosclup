@@ -24,14 +24,17 @@ sudo apt update -y
 sudo apt install libreoffice -y
 sudo apt-get upgrade -y 
 #move libraaccount-glib
-sudo rsync -avz ./resources/config/* /home/$User/.config/libaccounts-glib/
+# Debugging testing
+sudo rsync -avz ./resources/config/* /home/$User/.config/
 #move paper
+# Working
 sudo rsync -avz ./resources/Paper/* /usr/share/icons/Paper/
 #move ttf-khmeros
-sudo rsync -avz ./resourses/ttf-khmeros/* /usr/share/fonts/truetype/ttf-khmeros/
+# Debugging
+sudo rsync -avz ./resourses/ttf-khmeros/* /usr/share/fonts/TTF
 cd ..
 echo "Deleting file...."
-rm -rf kosmosclup
+# rm -rf kosmosclup
 
 echo "Done!!!"
 echo "Thank you for using KOOMPI"
